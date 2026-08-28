@@ -1,6 +1,7 @@
 <div id="header" align="center">
-hello everynyan look at my big fat alfred plushie and small little rusame plushies
- <img src="https://file.garden/ZiNgQQJApRIOcdGR/image_2026-08-27_214701890.png" width="300" height="400"> 
+hello everynyan look at my big fat alfred plushie and small little rusame plushies<br/>
+ 
+ <img src="https://file.garden/ZiNgQQJApRIOcdGR/image_2026-08-27_214701890.png" width="200" height="250"> 
 
   
  i need to get a picture of them & my alfred nendoroid Together. hi my name is ame and i love alfred f jones ive spent almost $500 on merch of him already ok awwwww~ he makes me a very happy camper. i dont know how to code Plz Help
